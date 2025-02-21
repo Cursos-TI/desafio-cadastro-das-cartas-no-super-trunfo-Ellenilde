@@ -19,4 +19,23 @@ int main() {
     // Exiba os valores inseridos para cada atributo da cidade, um por linha.
 
     return 0;
-}
+    printf("CartasSuperTrunfo!\n")
+;printf("CARTA 1!\n");
+char estado = 'PIAUÍ';
+char códigodacarta = ('A01');
+char cidade = 'TERESINA';
+int população = 866.300;
+float área = (float)(1.391,293);
+float pib = (double)(27.430,28);
+int pontosturísticos = (20);
+
+;printf("CARTA 2!\n");
+char estado = 'AMAZONAS';
+char códidodacarta = ('B02');
+char cidade = 'MANAUS';
+int população = (double)(2063869);
+float área = (float)(11.401,002);
+float pib = (double)(45.782,75);
+int pontosturísticos = (50);
+
+return 0;
